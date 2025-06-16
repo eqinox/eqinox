@@ -1,9 +1,22 @@
 ## Hi there, I'm Vasko👋
 
-🎸 Coder by day, guitarist by night.  
-⚙️ Frontend enthusiast who’s getting deeper into backend.  
-🚀 Building with **React.js**, learning **Node.js**, and always up for extreme challenges (yes, I ride a motorcycle too 🏍️). 
-📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/vasil-nikolov-bb8696a6/) • [Portfolio](https://www.vasilnikolov.bg/)
+
+🎸 Frontend dev with a passion for building cool UIs and rocking out on my guitar.  
+💻 Currently exploring the backend world — one NestJS module at a time.  
+🏍️ I like speed — in code and on two wheels.
+
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on: **eCommerceV2** – a better, faster, cleaner online store  
+- 🌱 I’m currently learning: **NestJS** + **PostgreSQL**    
+- 👨‍💻 I love working with: **React**, **Next.js**, **Tailwind CSS**  
+- 🎯 Goals: Become a **full-stack** dev who writes clean, scalable code  
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/vasil-nikolov-bb8696a6/) • [Portfolio](https://www.vasilnikolov.bg/)
+
+---
+> “Code like you mean it. Live like you love it.”
 <!--
 **eqinox/eqinox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

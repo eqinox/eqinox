@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Vasko👋
 
+🎸 Coder by day, guitarist by night.  
+⚙️ Frontend enthusiast who’s getting deeper into backend.  
+🚀 Building with **React.js**, learning **Node.js**, and always up for extreme challenges (yes, I ride a motorcycle too 🏍️). 
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/vasil-nikolov-bb8696a6/) • [Portfolio](https://www.vasilnikolov.bg/)
 <!--
 **eqinox/eqinox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

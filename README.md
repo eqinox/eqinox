@@ -9,8 +9,8 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: **eCommerceV2** – a better, faster, cleaner online store  
-- 🌱 I’m currently learning: **NestJS** + **PostgreSQL**    
+- 🔭 I’m currently working on: **Treasure-Vault-Mini-Game** – a fun game
+- 🌱 I’m currently learning: **NestJS** + **PostgreSQL**, **PixiJS**  + **GSAP**
 - 👨‍💻 I love working with: **React**, **Next.js**, **Tailwind CSS**  
 - 🎯 Goals: Become a **full-stack** dev who writes clean, scalable code  
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/vasil-nikolov-bb8696a6/) • [Portfolio](https://www.vasilnikolov.bg/)

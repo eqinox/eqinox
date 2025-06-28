@@ -9,7 +9,6 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: **Treasure-Vault-Mini-Game** – a fun game
 - 🌱 I’m currently learning: **NestJS** + **PostgreSQL**, **PixiJS**  + **GSAP**
 - 👨‍💻 I love working with: **React**, **Next.js**, **Tailwind CSS** 
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/vasil-nikolov-bb8696a6/) • [Portfolio](https://www.vasilnikolov.bg/)

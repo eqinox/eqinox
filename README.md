@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning: **NestJS** + **PostgreSQL**, **PixiJS**  + **GSAP**
+- 🌱 I’m currently learning: **Three.js**
 - 👨‍💻 I love working with: **React**, **Next.js**, **Tailwind CSS** 
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/vasil-nikolov-bb8696a6/) • [Portfolio](https://www.vasilnikolov.bg/)
 

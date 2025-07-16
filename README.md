@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning: **Three.js**
+- 🌱 I’m currently learning: **Three.js**, **React Native**
 - 👨‍💻 I love working with: **React**, **Next.js**, **Tailwind CSS**
 - 🎯 Goal: Build awesome, interactive websites with smooth animations and real-time magic — seamless, fast, and full of life.
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/vasil-nikolov-bb8696a6/) • [Portfolio](https://www.vasilnikolov.bg/)

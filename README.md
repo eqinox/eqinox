@@ -1,8 +1,7 @@
 ## Hi there, I'm Vasko👋
 
 
-🎸 Frontend dev with a passion for building cool UIs and rocking out on my guitar.  
-💻 Currently exploring the backend world — one NestJS module at a time.  
+🎸 Software engineer with a passion for building cool UIs and rocking out on my guitar.  
 🏍️ I like speed — in code and on two wheels.
 
 ---

@@ -7,10 +7,6 @@
 ---
 
 ### 🚀 About Me
-
-- 🌱 I’m currently learning: **Gsap animations**
-- 👨‍💻 I love working with: **React**, **Next.js**, **Tailwind CSS**, **Shadcn**
-- 🎯 Goal: Build awesome, interactive websites with smooth animations and real-time magic — seamless, fast, and full of life.
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/vasil-nikolov-bb8696a6/) • [Portfolio](https://www.vasilnikolov.bg/)
 
 ---
